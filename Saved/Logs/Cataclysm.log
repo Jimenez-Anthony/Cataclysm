@@ -795,3 +795,18 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.16-00.13.38:402][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
 [2022.11.16-00.13.38:408][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
 [2022.11.16-00.13.38:412][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.16-00.24.10:956][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.11.16-00.24.12:169][905]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.16-00.24.12:175][905]LogShaderCompilers: Display: ================================================
+[2022.11.16-00.24.12:175][905]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.16-00.24.12:175][905]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.16-00.24.12:175][905]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.16-00.24.12:175][905]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.11.16-00.24.12:175][905]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.16-00.24.12:175][905]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.16-00.24.12:175][905]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.16-00.24.12:175][905]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.16-00.24.12:175][905]LogShaderCompilers: Display: ================================================
+[2022.11.16-00.24.12:298][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.16-00.24.12:304][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.11.16-00.24.12:308][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
